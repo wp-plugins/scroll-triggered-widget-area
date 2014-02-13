@@ -27,7 +27,7 @@ Scroll Triggered Widget is not an actual widget. It defines a new widget area wh
 = Using The WordPress Dashboard =
 
 1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'scroll-triggered-widget-area'
+2. Search for 'scroll-triggered-widget-area-area'
 3. Click 'Install Now'
 4. Activate the plugin on the Plugin dashboard
 
@@ -35,19 +35,19 @@ Scroll Triggered Widget is not an actual widget. It defines a new widget area wh
 
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Navigate to the 'Upload' area
-3. Select 'scroll-triggered-widget.zip' from your computer
+3. Select 'scroll-triggered-widget-area-area.zip' from your computer
 4. Click 'Install Now'
 5. Activate the plugin in the Plugin dashboard
 
 = Using FTP =
 
-1. Download 'scroll-triggered-widget.zip'
-2. Extract the 'scroll-triggered-widget' directory to your computer
-3. Upload the 'scroll-triggered-widget' directory to the '/wp-content/plugins/' directory
+1. Download 'scroll-triggered-widget-area-area.zip'
+2. Extract the 'scroll-triggered-widget-area' directory to your computer
+3. Upload the 'scroll-triggered-widget-area' directory to the '/wp-content/plugins/' directory
 4. Activate the plugin in the Plugin dashboard
 
 == Screenshots ==
 
 1. Settings page.
-2. A Newsletter widget inside scroll-triggered-widget-area looks like this.
+2. A Newsletter widget inside scroll-triggered-widget-area-area looks like this.
 
