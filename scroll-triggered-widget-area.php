@@ -4,7 +4,7 @@
  * Plugin URI:        http://logeshkumar.com/scroll-triggered-widget-area/
  * Description:       A simple plugin which triggers a widget area in the footer with stunning animation options.
  * Version:           1.0.1
- * Author:            Logesh Kumar
+ * Author:            logeshmba
  * Author URI:        http://logeshkumar.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
