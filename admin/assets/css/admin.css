@@ -1,0 +1,21 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+input[type="text"]{
+	color: #500000 !important;
+}
+
+#scroll-animation{
+	width: 150px;	
+}
+
+#stwa_settings{
+	display: none;
+}
+
+
+#stwa_settings .regular-text {
+    width: 50px;
+}
+
+#stwa-settings-title{
+	font-size: 20px;
+}
