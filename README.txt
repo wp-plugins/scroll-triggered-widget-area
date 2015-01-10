@@ -1,4 +1,5 @@
 === Scroll Triggered Widget Area===
+Contributors: logeshmba
 Tags: scroll triggered, widget area, popup, animation 
 Requires at least: 3.5.1
 Tested up to: 3.6
